@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'font';
+   font-display: swap;
+   src: url('font/font.ttf');
+}
+@font-face {
+   font-family: 'BEBAS';
+   font-display: swap;
+   src: url('BEBAS/font.ttf');
+}
+@font-face {
+   font-family: 'GeosansLight';
+   font-display: swap;
+   src: url('GeosansLight/font.ttf');
+}
